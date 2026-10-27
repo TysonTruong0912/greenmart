@@ -54,4 +54,4 @@ src/
 
 ## Tác giả
 
-Sinh viên thực hiện đồ án Web.
+Sinh viên Trương Nguyễn Tấn Sĩ thực hiện thực hành môn Thiết Kế Web.
