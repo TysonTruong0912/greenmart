@@ -1,6 +1,6 @@
 # GreenMart – Siêu thị gia đình trực tuyến
 
-Demo giao diện website thương mại điện tử bán thực phẩm & hàng tiêu dùng, lấy cảm hứng từ mô hình siêu thị online tại Việt Nam.
+Thực hành xây dựng website bán thực phẩm & hàng tiêu dùng, lấy cảm hứng từ mô hình siêu thị online tại Việt Nam.
 
 ## Công nghệ
 
